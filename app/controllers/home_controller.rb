@@ -5,7 +5,7 @@ class HomeController < ApplicationController
     @about_me = "My Name is Crystal Braia..."#instance variable
     @answer = 2 + 2 
   end
-  def contact1
+  def contact
     
   end
 end
