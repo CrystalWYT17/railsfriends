@@ -6,6 +6,6 @@ class HomeController < ApplicationController
     @answer = 2 + 2 
   end
   def contact
-    
+    @contact = "Please contact us....."
   end
 end
